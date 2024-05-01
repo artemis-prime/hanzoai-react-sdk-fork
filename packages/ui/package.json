@@ -94,7 +94,7 @@
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.51.3",
     "validator": "^13.11.0",
-    "zod": "3.21.4"
+    "zod": "^3.23.5"
   },
   "devDependencies": {
     "@mdx-js/loader": "^3.0.0",
